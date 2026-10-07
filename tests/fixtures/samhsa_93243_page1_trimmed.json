@@ -1,0 +1,100 @@
+{
+ "spending_level": "awards",
+ "limit": 100,
+ "results": [
+  {
+   "internal_id": 267889790,
+   "Award ID": "H79TI087926",
+   "Recipient Name": "HEALTH CARE SERVICES, CALIFORNIA DEPARTMENT OF",
+   "recipient_id": "7fe0d08f-685f-a9cc-f9f6-f9e6c6c20e22-C",
+   "Award Amount": 322294432.0,
+   "Start Date": "2024-09-30",
+   "Awarding Agency": "Department of Health and Human Services",
+   "Assistance Listings": [
+    {
+     "cfda_number": "93.243",
+     "cfda_program_title": "SUBSTANCE ABUSE AND MENTAL HEALTH SERVICES PROJECTS OF REGIONAL AND NATIONAL SIGNIFICANCE"
+    },
+    {
+     "cfda_number": "93.788",
+     "cfda_program_title": "OPIOID STR"
+    }
+   ],
+   "awarding_agency_id": 806,
+   "agency_slug": "department-of-health-and-human-services",
+   "generated_internal_id": "ASST_NON_H79TI087926_075"
+  },
+  {
+   "internal_id": 267889715,
+   "Award ID": "H79TI087842",
+   "Recipient Name": "FLORIDA DEPARTMENT OF CHILDREN AND FAMILIES",
+   "recipient_id": "6841d472-7f0a-1045-f919-6a0ebf4bd64e-C",
+   "Award Amount": 317698497.0,
+   "Start Date": "2024-09-30",
+   "Awarding Agency": "Department of Health and Human Services",
+   "Assistance Listings": [
+    {
+     "cfda_number": "93.243",
+     "cfda_program_title": "SUBSTANCE ABUSE AND MENTAL HEALTH SERVICES PROJECTS OF REGIONAL AND NATIONAL SIGNIFICANCE"
+    },
+    {
+     "cfda_number": "93.788",
+     "cfda_program_title": "OPIOID STR"
+    }
+   ],
+   "awarding_agency_id": 806,
+   "agency_slug": "department-of-health-and-human-services",
+   "generated_internal_id": "ASST_NON_H79TI087842_075"
+  },
+  {
+   "internal_id": 267889623,
+   "Award ID": "H79TI087745",
+   "Recipient Name": "OHIO DEPARTMENT MENTAL HEALTH",
+   "recipient_id": "263e5f60-418e-c629-150e-54f10a0c863e-C",
+   "Award Amount": 305197226.0,
+   "Start Date": "2024-09-30",
+   "Awarding Agency": "Department of Health and Human Services",
+   "Assistance Listings": [
+    {
+     "cfda_number": "93.243",
+     "cfda_program_title": "SUBSTANCE ABUSE AND MENTAL HEALTH SERVICES PROJECTS OF REGIONAL AND NATIONAL SIGNIFICANCE"
+    },
+    {
+     "cfda_number": "93.788",
+     "cfda_program_title": "OPIOID STR"
+    }
+   ],
+   "awarding_agency_id": 806,
+   "agency_slug": "department-of-health-and-human-services",
+   "generated_internal_id": "ASST_NON_H79TI087745_075"
+  },
+  {
+   "internal_id": 267889712,
+   "Award ID": "H79TI087839",
+   "Recipient Name": "PENNSYLVANIA DEPARTMENT OF DRUG AND ALCOHOL PROGRAMS",
+   "recipient_id": "c50682fe-be25-ff20-416e-e55cc0d1ea05-C",
+   "Award Amount": 253166031.0,
+   "Start Date": "2024-09-30",
+   "Awarding Agency": "Department of Health and Human Services",
+   "Assistance Listings": [
+    {
+     "cfda_number": "93.243",
+     "cfda_program_title": "SUBSTANCE ABUSE AND MENTAL HEALTH SERVICES PROJECTS OF REGIONAL AND NATIONAL SIGNIFICANCE"
+    },
+    {
+     "cfda_number": "93.788",
+     "cfda_program_title": "OPIOID STR"
+    }
+   ],
+   "awarding_agency_id": 806,
+   "agency_slug": "department-of-health-and-human-services",
+   "generated_internal_id": "ASST_NON_H79TI087839_075"
+  }
+ ],
+ "page_metadata": {
+  "page": 1,
+  "hasNext": true,
+  "last_record_unique_id": 267878991,
+  "last_record_sort_value": "1621444200"
+ }
+}

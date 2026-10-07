@@ -1,0 +1,24 @@
+{
+ "listing": "66.951",
+ "recorded": "2026-10-07",
+ "window": [
+  {
+   "start_date": "2021-10-07",
+   "end_date": "2026-10-07",
+   "date_type": "new_awards_only"
+  }
+ ],
+ "counts": {
+  "*": 131,
+  "nonprofit": 97,
+  "higher_education": 30,
+  "regional_and_state_government": 1,
+  "local_government": 3,
+  "indian_native_american_tribal_government": 0,
+  "category_business": 0,
+  "individuals": 0,
+  "government": 4,
+  "category_business,government,higher_education,individuals,nonprofit": 131,
+  "small_business": 0
+ }
+}

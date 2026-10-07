@@ -1,0 +1,1484 @@
+{
+ "spending_level": "awards",
+ "limit": 100,
+ "results": [
+  {
+   "Award ID": "98T52001",
+   "Recipient Name": "SEQUOIA RIVERLANDS TRUST",
+   "recipient_id": "9fdacdf3-6033-e281-066d-4ecd08284dbd-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-05-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "98T46801",
+   "Recipient Name": "ECORISE YOUTH INNOVATIONS",
+   "recipient_id": "ebc034d0-f1c9-b15c-c3d2-090b64a5a431-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "98T46401",
+   "Recipient Name": "EARTH TEAM A CALIFORNIA NONPROFIT PUBLIC BENEFIT CORP",
+   "recipient_id": "3cf9731d-1ddf-4e8d-8346-0ebde4fde1a9-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "97T33101",
+   "Recipient Name": "CLIMATE RESILIENT COMMUNITIES",
+   "recipient_id": "f3c5d476-0ada-5cb2-c4f0-5a1d68cf5fd4-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "97T33001",
+   "Recipient Name": "UNIVERSITY OF CALIFORNIA, SANTA BARBARA",
+   "recipient_id": "2e3fd571-0484-5e6b-3e26-4381689012c6-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "97T32901",
+   "Recipient Name": "MARIANA ISLANDS NATURE ALLIANCE (MINA)",
+   "recipient_id": "3d5c7d82-f044-621b-3813-05a77d2f7143-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-09-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "97T32801",
+   "Recipient Name": "CENTER FOR THE FORCE MAJEURE FOUNDA",
+   "recipient_id": "c6ada46c-95cc-63ce-3082-80dfcfd94ff4-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "97T05301",
+   "Recipient Name": "SIERRA STREAMS INSTITUTE",
+   "recipient_id": "037afc4b-5ede-874f-142f-414f59ca320a-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "97T04901",
+   "Recipient Name": "NEVADA SYSTEM OF HIGHER EDUCATION",
+   "recipient_id": "db2e86bc-d873-8ba5-31f9-060bf8695c90-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "97794601",
+   "Recipient Name": "SOUTH CENTRAL OZARK COUNCIL OF GOVERNMENTS",
+   "recipient_id": "844888b2-3e20-bc28-6bbe-f07883652c21-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-09-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "97794501",
+   "Recipient Name": "KANSAS ASSOCIATION FOR CONSERVATION AND ENVIRONMENTAL EDUCATION",
+   "recipient_id": "2ad24ba7-eb86-b82f-f6a6-9768b780d2da-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "96714101",
+   "Recipient Name": "KANSAS ASSOCIATION FOR CONSERVATION AND ENVIRONMENTAL EDUCATION",
+   "recipient_id": "2ad24ba7-eb86-b82f-f6a6-9768b780d2da-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "96394401",
+   "Recipient Name": "THE TRUST FOR PUBLIC LAND",
+   "recipient_id": "96ca1bc4-91b2-e774-ea78-f55071185f41-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "96276924",
+   "Recipient Name": "CITY PARKS FOUNDATION",
+   "recipient_id": "3c203b91-f67b-ca2a-fbbc-d1160a82957d-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2026-01-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "96275924",
+   "Recipient Name": "CORNELL COOPERATIVE EXTENSION ASSOCIATION OF JEFFERSON COUNTY",
+   "recipient_id": "c103e81a-c777-4ecd-3928-5a4a732d3722-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-09-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "96275724",
+   "Recipient Name": "NEW ROOTS SCHOOL",
+   "recipient_id": "e04bffae-2495-189d-b5c6-1a6a53c80ec3-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-09-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "96269524",
+   "Recipient Name": "TRAIL BLAZER CAMPS",
+   "recipient_id": "c87adfa1-c281-ff89-88f3-c0c9c2d97789-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "96269224",
+   "Recipient Name": "ROWAN UNIVERSITY",
+   "recipient_id": "a8f234e5-d929-51e5-4a22-37acb8e45afa-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-08-15",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "96269124",
+   "Recipient Name": "NEW YORK SUN WORKS INC",
+   "recipient_id": "1c86c908-0f8e-f99c-cf06-649faa6d05d1-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "96258923",
+   "Recipient Name": "UNIVERSITY OF THE VIRGIN ISLANDS",
+   "recipient_id": "bff03c04-091e-21a8-0bee-6e0f5c254706-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "96239122",
+   "Recipient Name": "UNIVERSIDAD DE PUERTO RICO EN AGUADILLA",
+   "recipient_id": "048480f9-e413-70bf-3bd0-dc68970da9f2-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "96239022",
+   "Recipient Name": "GROUNDWORK HUDSON VALLEY INC",
+   "recipient_id": "0e3ceada-d9a0-5ecc-93de-b22acfa851bf-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "96238922",
+   "Recipient Name": "MANHATTAN UNIVERSITY",
+   "recipient_id": "aa6109b2-aec7-7a11-bc42-3e6360d75a34-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "96234923",
+   "Recipient Name": "BERGEN COMMUNITY COLLEGE",
+   "recipient_id": "b11e4c11-a8d7-2b94-6865-ec4b35a064d3-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "95815340",
+   "Recipient Name": "MOUNTAIN STUDIES INSTITUTE INC",
+   "recipient_id": "9ed7729d-4090-a054-9502-5e5804f29dd9-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-04-03",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "95815170",
+   "Recipient Name": "COLORADO ALLIANCE FOR ENVIRONMENTAL EDUCATION",
+   "recipient_id": "c57a8d52-df1e-aea0-8985-2faaa96da6bb-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-09-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "953A0088",
+   "Recipient Name": "PP&L SUSTAINABLE ENERGY FUND",
+   "recipient_id": "70d50dd3-cc0e-7e78-cdb6-ee2d9701c3a3-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-08-05",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "953A0058",
+   "Recipient Name": "UNIVERSITY OF DELAWARE",
+   "recipient_id": "88f4772d-e0bd-42e6-ed20-c3144d3bace8-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-02-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "95344701",
+   "Recipient Name": "CASA INC",
+   "recipient_id": "754c4ce6-4aab-ad50-7221-31e1f1e71de6-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "95344601",
+   "Recipient Name": "WOMEN FOR A HEALTHY ENVIRONMENT",
+   "recipient_id": "73108cd5-ee19-b795-a763-0f353a379b12-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "95343301",
+   "Recipient Name": "HENRICO COUNTY PUBLIC SCHOOLS",
+   "recipient_id": "15086748-9b1d-d493-3bf3-fdeb9d66746a-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "95343201",
+   "Recipient Name": "LIVING CLASSROOMS FOUNDATION, INC.",
+   "recipient_id": "f53de5a1-d0ac-0752-05fa-2a73a21417ca-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "95311701",
+   "Recipient Name": "GREEN & HEALTHY HOMES INITIATIVE INC",
+   "recipient_id": "2bcf786d-6529-124d-9c2c-1f30e9e4401d-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-04-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "95307601",
+   "Recipient Name": "AUDUBON SOCIETY OF WESTERN PENNSYLVANIA",
+   "recipient_id": "5f79e64d-4d63-5150-d35d-ac1cca24c56c-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-04-03",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "03D32725",
+   "Recipient Name": "CATALYST MIAMI, INC.",
+   "recipient_id": "1a4b972b-457e-6c60-3957-88af18ffd479-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-06-30",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "03D32625",
+   "Recipient Name": "YOUTH LEARNING AS CITIZEN ENVIRONMENTAL SCIENTISTS",
+   "recipient_id": "6d7739a0-ed42-971e-fceb-6b051d69e39a-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-05-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "03D17224",
+   "Recipient Name": "NATIONAL WILDLIFE FEDERATION",
+   "recipient_id": "a388e1c5-c6d5-13e3-d4b7-d93d014ac74c-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "03D17124",
+   "Recipient Name": "IVY ACADEMY, INC.",
+   "recipient_id": "875ee459-d130-3cf8-0224-6a5d35efa126-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-09-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "03D17024",
+   "Recipient Name": "YOUTH ENVIRONMENTAL ALLIANCE, INC.",
+   "recipient_id": "2042c573-ea6e-df97-2a63-eeead26fa4c0-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "03D16924",
+   "Recipient Name": "MISSISSIPPI STATE UNIVERSITY",
+   "recipient_id": "661ebb1f-da70-7800-4c2a-056c3268c6d7-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "02J94301",
+   "Recipient Name": "SUSTAINABLE SEATTLE",
+   "recipient_id": "ecfea7e3-d843-3a04-73b0-4f745ecae158-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "02J93901",
+   "Recipient Name": "GREEN SCHOOLS NATIONAL NETWORK INC",
+   "recipient_id": "8665b762-892f-584c-dc5d-2ebefd4cc135-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-02-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "02J64801",
+   "Recipient Name": "UNIVERSITY OF ALASKA ANCHORAGE",
+   "recipient_id": "60295d89-b22d-012f-5bda-efd5622a7a03-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "02J64501",
+   "Recipient Name": "HOOD CANAL SALMON ENHANCEMENT GROUP",
+   "recipient_id": "8880b3f5-81bc-7c0a-f72b-02ac113f1420-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "02J25101",
+   "Recipient Name": "WASHINGTON STATE UNIVERSITY",
+   "recipient_id": "358711ab-dfdd-d789-9d79-6eaf11629381-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-09-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "02J25001",
+   "Recipient Name": "ENVIRONMENTAL SCIENCE CENTER",
+   "recipient_id": "794b37b0-2883-16de-3baf-025ba036b03e-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "02J12301",
+   "Recipient Name": "NISQUALLY RIVER FOUNDATION",
+   "recipient_id": "3493704f-26f4-4254-1420-1ef7941fe2f7-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-09-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "02J11601",
+   "Recipient Name": "GROWING GARDENS",
+   "recipient_id": "b761135b-7150-1622-e995-becb6aa24a66-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "02J11101",
+   "Recipient Name": "THE CORPORATION OF GONZAGA UNIVERSITY",
+   "recipient_id": "6d064b3b-978f-a67c-1670-148face3d75a-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "02F77701",
+   "Recipient Name": "TEACHING RESPONSIBLE EARTH EDUCATION",
+   "recipient_id": "b3c69b88-6133-b344-bc30-7a118741503f-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "02F77501",
+   "Recipient Name": "AUSTIN YOUTH RIVER WATCH",
+   "recipient_id": "08a96381-1576-47d9-e626-af85850b4251-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-02-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "02F77401",
+   "Recipient Name": "ARTIST BOAT, INC., THE",
+   "recipient_id": "805166e7-65b1-db73-b379-c0be5cfe454c-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "02F77301",
+   "Recipient Name": "UNIVERSITY OF TEXAS AT ARLINGTON",
+   "recipient_id": "7ed0ee91-c2b9-af52-1843-b1a4d78f9683-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "02F59801",
+   "Recipient Name": "GALVESTON BAY FOUNDATION INC",
+   "recipient_id": "7758a045-3882-3979-cb33-9bf67d77f33e-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-15",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "02F59701",
+   "Recipient Name": "NATIONAL WILDLIFE FEDERATION",
+   "recipient_id": "a388e1c5-c6d5-13e3-d4b7-d93d014ac74c-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-09-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "02F58501",
+   "Recipient Name": "LOUISIANA ENVIRONMENTAL ACTION NETWORK, INC.",
+   "recipient_id": "42383e1c-3e02-fe3c-ecee-3ef2031cbe4e-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "02F58401",
+   "Recipient Name": "EXPLORA SCIENCE CENTER & CHILDREN'S MUSEUM OF ALBUQUERQUE",
+   "recipient_id": "668487ff-0320-db36-edb0-8a0b812f6af1-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "02F26301",
+   "Recipient Name": "BOSQUE ECOSYSTEM MONITORING PROGRAM",
+   "recipient_id": "90c9b96f-fc99-8351-06c1-de0d70ff1f76-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-04-15",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "02F17301",
+   "Recipient Name": "ECORISE YOUTH INNOVATIONS",
+   "recipient_id": "ebc034d0-f1c9-b15c-c3d2-090b64a5a431-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "02D47223",
+   "Recipient Name": "GROUNDWORK OHIO RIVER VALLEY, INC.",
+   "recipient_id": "b3454185-1e9f-0724-f8a5-fd49fc61a068-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-06-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "02D46723",
+   "Recipient Name": "THE KENTUCKY ASSOCIATION FOR ENVIRONMENTAL EDUCATION CORP",
+   "recipient_id": "390e03b3-397b-cfac-9eac-280751271fad-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-04-03",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "02D46623",
+   "Recipient Name": "FLORIDA A & M UNIVERSITY",
+   "recipient_id": "a78e4f42-097b-2bd5-856f-e0c4455024ec-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-08-28",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "02D34122",
+   "Recipient Name": "MARYVILLE COLLEGE",
+   "recipient_id": "62101823-ee60-71e6-0475-72d39a099b0a-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-08-30",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "02D34022",
+   "Recipient Name": "EMORY UNIVERSITY",
+   "recipient_id": "4d4ce585-e95e-2593-758c-86dc120820ad-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "00I30000",
+   "Recipient Name": "OUTDOOR LAB FOUNDATION",
+   "recipient_id": "a008af7c-7050-7e0a-46dc-766a03bf1c3a-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-02-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00I29900",
+   "Recipient Name": "EARTH FORCE, INC.",
+   "recipient_id": "0a846ca6-37b8-8041-69bd-cb17ea4df775-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-02-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00I28400",
+   "Recipient Name": "ECOLOGY PROJECT INTERNATIONAL",
+   "recipient_id": "74d2f653-1248-d4c6-77e7-7deef20ad90d-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00I28300",
+   "Recipient Name": "COLORADO ALLIANCE FOR ENVIRONMENTAL EDUCATION",
+   "recipient_id": "c57a8d52-df1e-aea0-8985-2faaa96da6bb-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00E05016",
+   "Recipient Name": "CONSERVANCY FOR CUYAHOGA VALLEY NATIONAL PARK",
+   "recipient_id": "a8a0180a-01c0-49fe-7ebc-e87e82568302-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00E05015",
+   "Recipient Name": "REGENTS OF THE UNIVERSITY OF MINNESOTA",
+   "recipient_id": "75c0ae0f-6a5f-aead-72df-d28c71c0d348-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-02-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00E04033",
+   "Recipient Name": "CHILDREN & TEACHERS FOUNDATION OF THE CHICAGO TEACHERS UNION",
+   "recipient_id": "c7a81432-e993-7fcc-f17c-63d1f15f5c0a-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-02-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00E04032",
+   "Recipient Name": "FIELD MUSEUM OF NATURAL HISTORY",
+   "recipient_id": "ba4cf8c5-4574-c8fb-55f4-0db03580ab62-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-04-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00E04031",
+   "Recipient Name": "INLAND SEAS EDUCATION ASSOC CORP",
+   "recipient_id": "dd24c6d8-961f-554e-967a-7409e2ab95c9-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-05-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00E03688",
+   "Recipient Name": "NEIGHBORHOOD HOUSE OF MILWAUKEE INC",
+   "recipient_id": "26f36499-c046-d73a-1c68-268a2a29e7d4-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00E03685",
+   "Recipient Name": "MINNESOTA STATE UNIVERSITY MANKATO",
+   "recipient_id": "10173174-996f-bcdb-66a8-616b2698f271-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00E03325",
+   "Recipient Name": "UNIVERSITY OF ILLINOIS",
+   "recipient_id": "98f86457-cdff-6b3c-9ff8-3a4415183bf6-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "00E03323",
+   "Recipient Name": "OHIO UNIVERSITY",
+   "recipient_id": "c5a7a8b2-6594-d1dd-547b-4d52ca715071-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "00E03153",
+   "Recipient Name": "UNIVERSITY OF ILLINOIS",
+   "recipient_id": "98f86457-cdff-6b3c-9ff8-3a4415183bf6-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-07-18",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "00A01859",
+   "Recipient Name": "CHANGE IS SIMPLE, INCORPORATED",
+   "recipient_id": "2121bd69-6008-f8e7-6b5b-5e66b3481326-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00A01706",
+   "Recipient Name": "WOONASQUATUCKET RIVER WATERSHED COUNCIL",
+   "recipient_id": "b7684b51-4d0b-854a-1550-0c75faac7fef-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2025-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00A01520",
+   "Recipient Name": "IPSWICH RIVER WATERSHED ASSOCIATION, INC.",
+   "recipient_id": "b0caf375-d9c1-76e5-de51-fe26588de8d3-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00A01519",
+   "Recipient Name": "MASSACHUSETTS AUDUBON SOCIETY, INC.",
+   "recipient_id": "86976376-f13e-f73c-761b-ec3e50a624de-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-09-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00A01451",
+   "Recipient Name": "NEW HAVEN ECOLOGY PROJECT INC",
+   "recipient_id": "57903e63-ded6-e1ce-0cf9-23f2feec21b9-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "00A01016",
+   "Recipient Name": "NEW HAVEN ECOLOGY PROJECT INC",
+   "recipient_id": "57903e63-ded6-e1ce-0cf9-23f2feec21b9-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "00A00834",
+   "Recipient Name": "UNIVERSITY OF CONNECTICUT",
+   "recipient_id": "f7d4a874-2ab3-85f8-4c06-002c8728886d-C",
+   "Award Amount": 100000.0,
+   "Start Date": "2023-09-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "00A00818",
+   "Recipient Name": "SOUNDWATERS, INC.",
+   "recipient_id": "36b1cd19-9c6e-05ec-39dd-0c7d342e3910-R",
+   "Award Amount": 100000.0,
+   "Start Date": "2022-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "96235123",
+   "Recipient Name": "ROWAN UNIVERSITY",
+   "recipient_id": "a8f234e5-d929-51e5-4a22-37acb8e45afa-C",
+   "Award Amount": 99999.0,
+   "Start Date": "2023-04-03",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "953A0103",
+   "Recipient Name": "MUNDO VERDE BILINGUAL PUBLIC CHARTER SCHOOL",
+   "recipient_id": "cd8ebb57-d4e0-fc0f-6961-fc81fefc69f7-R",
+   "Award Amount": 99999.0,
+   "Start Date": "2025-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "95312301",
+   "Recipient Name": "CHESAPEAKE CONSERVANCY, INC.",
+   "recipient_id": "6d645b61-f7d5-f70c-c72e-3ca76380c107-R",
+   "Award Amount": 99992.0,
+   "Start Date": "2023-05-26",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "00E03324",
+   "Recipient Name": "NATIONAL AUDUBON SOCIETY, INC",
+   "recipient_id": "92b1ec9b-8528-1b9b-c0e1-de5e89039325-C",
+   "Award Amount": 99931.0,
+   "Start Date": "2023-04-03",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "02D33922",
+   "Recipient Name": "UNIVERSITY OF SOUTH ALABAMA",
+   "recipient_id": "06e99475-088f-52e6-67ba-36b42571498a-C",
+   "Award Amount": 99815.0,
+   "Start Date": "2022-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "02F15201",
+   "Recipient Name": "TALKING TALONS YOUTH LEADERSHIP",
+   "recipient_id": "29b526d1-9afd-3f23-6376-42235e5c0e62-R",
+   "Award Amount": 99800.0,
+   "Start Date": "2022-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "02J64301",
+   "Recipient Name": "NOOKSACK SALMON ENHANCEMENT ASSOCIATION",
+   "recipient_id": "4a4675bc-4d59-d60e-7204-6afb6d37d2dd-R",
+   "Award Amount": 99735.0,
+   "Start Date": "2024-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "96394301",
+   "Recipient Name": "JASTECH DEVELOPMENT SERVICES INC",
+   "recipient_id": "5fc96290-7996-7366-1da9-693ab2e7b5ab-C",
+   "Award Amount": 99272.0,
+   "Start Date": "2022-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    },
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "98T52101",
+   "Recipient Name": "ORANGE COUNTY COASTKEEPER",
+   "recipient_id": "906536f4-a936-e27f-4ac7-4df3f8a63bad-R",
+   "Award Amount": 98491.0,
+   "Start Date": "2023-05-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "95815360",
+   "Recipient Name": "PROJECT WET FOUNDATION",
+   "recipient_id": "4d3085af-37db-359d-d7e3-0bd0d10b20d5-C",
+   "Award Amount": 98448.0,
+   "Start Date": "2023-04-03",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "00E03687",
+   "Recipient Name": "HUBBARD COUNTY SOIL & WATER CONSERVATION",
+   "recipient_id": "64b26834-64ec-dd58-1431-08f89bdd819b-R",
+   "Award Amount": 98000.0,
+   "Start Date": "2024-07-15",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "02J64401",
+   "Recipient Name": "TAKSHANUK WATERSHED COUNCIL",
+   "recipient_id": "1866f8df-2daa-18d5-447e-61868063eab7-R",
+   "Award Amount": 97640.0,
+   "Start Date": "2024-07-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS PROGRAM"
+    }
+   ]
+  },
+  {
+   "Award ID": "95312201",
+   "Recipient Name": "THE PITTSBURGH PARKS CONSERVANCY",
+   "recipient_id": "cd668447-de38-3a96-62b8-e173b011365a-R",
+   "Award Amount": 96891.0,
+   "Start Date": "2023-04-03",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  },
+  {
+   "Award ID": "95815150",
+   "Recipient Name": "PROTECT OUR WATER JACKSON HOLE, INC.",
+   "recipient_id": "773be62e-7990-d087-5164-8be1108b3516-C",
+   "Award Amount": 96367.0,
+   "Start Date": "2022-08-01",
+   "Awarding Agency": "Environmental Protection Agency",
+   "Assistance Listings": [
+    {
+     "cfda_number": "66.951",
+     "cfda_program_title": "ENVIRONMENTAL EDUCATION GRANTS"
+    }
+   ]
+  }
+ ],
+ "page_metadata": {
+  "page": 1,
+  "hasNext": true,
+  "last_record_unique_id": 257956995,
+  "last_record_sort_value": "9636700"
+ }
+}
