@@ -144,7 +144,9 @@ class USASpendingClient:
         # Minimum gap between requests. The API has no published rate limit,
         # but it starts dropping connections under bursts of requests.
         self.min_interval = min_interval
-        self._last_request = 0.0
+        # None until the first request. Starting at 0.0 made the first request
+        # wait whenever time.monotonic() was small, e.g. on a freshly booted CI runner.
+        self._last_request: float | None = None
 
     def close(self) -> None:
         self._http.close()
@@ -160,7 +162,7 @@ class USASpendingClient:
     def _post(self, path: str, body: dict[str, Any]) -> dict[str, Any]:
         last_error: str = ""
         for attempt in range(1, self.max_attempts + 1):
-            wait = self._last_request + self.min_interval - time.monotonic()
+            wait = 0.0 if self._last_request is None else self._last_request + self.min_interval - time.monotonic()
             if wait > 0:
                 self._sleep(wait)
             self._last_request = time.monotonic()

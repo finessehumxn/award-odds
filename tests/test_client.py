@@ -163,3 +163,20 @@ def test_requests_are_spaced_by_min_interval():
     client.count_awards({})
     client.count_awards({})
     assert len(sleeps) == 1 and 59 < sleeps[0] <= 60
+
+
+def test_first_request_never_waits_even_right_after_boot(monkeypatch):
+    # Regression: the spacing clock started at 0.0, so on a machine whose
+    # monotonic clock was under min_interval (a fresh CI runner) the very
+    # first request slept.
+    import award_odds.client as client_mod
+
+    monkeypatch.setattr(client_mod.time, "monotonic", lambda: 5.0)
+    sleeps = []
+    client = USASpendingClient(
+        transport=httpx.MockTransport(lambda r: httpx.Response(200, json={"results": {"grants": 1}})),
+        sleep=sleeps.append,
+        min_interval=60,
+    )
+    client.count_awards({})
+    assert sleeps == []
